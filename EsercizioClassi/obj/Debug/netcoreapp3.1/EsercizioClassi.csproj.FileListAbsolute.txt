@@ -1,0 +1,13 @@
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 2\EsercizioClassi\EsercizioClassi\bin\Debug\netcoreapp3.1\EsercizioClassi.exe
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 2\EsercizioClassi\EsercizioClassi\bin\Debug\netcoreapp3.1\EsercizioClassi.deps.json
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 2\EsercizioClassi\EsercizioClassi\bin\Debug\netcoreapp3.1\EsercizioClassi.runtimeconfig.json
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 2\EsercizioClassi\EsercizioClassi\bin\Debug\netcoreapp3.1\EsercizioClassi.runtimeconfig.dev.json
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 2\EsercizioClassi\EsercizioClassi\bin\Debug\netcoreapp3.1\EsercizioClassi.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 2\EsercizioClassi\EsercizioClassi\bin\Debug\netcoreapp3.1\EsercizioClassi.pdb
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 2\EsercizioClassi\EsercizioClassi\obj\Debug\netcoreapp3.1\EsercizioClassi.csprojAssemblyReference.cache
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 2\EsercizioClassi\EsercizioClassi\obj\Debug\netcoreapp3.1\EsercizioClassi.AssemblyInfoInputs.cache
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 2\EsercizioClassi\EsercizioClassi\obj\Debug\netcoreapp3.1\EsercizioClassi.AssemblyInfo.cs
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 2\EsercizioClassi\EsercizioClassi\obj\Debug\netcoreapp3.1\EsercizioClassi.csproj.CoreCompileInputs.cache
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 2\EsercizioClassi\EsercizioClassi\obj\Debug\netcoreapp3.1\EsercizioClassi.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 2\EsercizioClassi\EsercizioClassi\obj\Debug\netcoreapp3.1\EsercizioClassi.pdb
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 2\EsercizioClassi\EsercizioClassi\obj\Debug\netcoreapp3.1\EsercizioClassi.genruntimeconfig.cache
